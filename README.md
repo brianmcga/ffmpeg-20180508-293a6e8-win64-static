@@ -1,0 +1,1 @@
+# ffmpeg-20180508-293a6e8-win64-static
